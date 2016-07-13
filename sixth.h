@@ -1,0 +1,25 @@
+//第六章习题（15道）和例题（9道）
+int example6_1();
+int example6_2();
+int example6_3();
+int example6_4();
+int example6_5();
+int example6_6();
+int example6_7();
+int example6_8();
+int example6_9();
+int exercise6_1();
+int exercise6_2();//两位数有时会出错
+int exercise6_3();
+int exercise6_4();
+int exercise6_5();
+int exercise6_6();   
+int exercise6_7();
+int exercise6_8();
+int exercise6_9();
+int exercise6_10();
+int exercise6_11();
+int exercise6_12();
+int exercise6_13();
+int exercise6_14();//有时数入得字符不被吸收
+int exercise6_15();

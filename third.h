@@ -1,0 +1,63 @@
+//第三章习题（3道）和例题（15道）
+
+//定义变量
+int b=-1;					
+int c_=0;  
+int b1=-2;					
+unsigned a=65535;           
+char d=0;                   
+char e=0;                   
+char f=0;                   
+int i=97;                   
+char g='a';                 
+float x=111111.111;         
+float y=222222.222;         
+float m=11111111.11111111;  
+float n=22222222.22222222;  
+float h2=123.456;           
+double r1=1.53;             
+double r2=21.83;            
+double r3=123.71;           
+double s1=0;                
+double s2=0;                
+double s3=0;                
+float h=0;                  
+float area=0;               
+float s=0;                  
+char c1=0;                  
+char c2=0;                  
+float disc=0;               
+float x1=0;                 
+float x2=0;                 
+float p=0;                  
+float q=0;                  
+float r=0;                  
+float h1=0;                 
+float c3=0;                 
+float s4=0;                 
+float s5=0;					
+float v1=0;                 
+float v2=0;                 
+float c4=0;                 
+float F=0;                  
+int a1=0;         
+
+//函数声明
+int example3_1();
+int example3_2();
+int example3_3();
+int example3_4();
+int example3_5();
+int example3_6();
+int example3_7();
+int example3_8();
+int example3_9();
+int example3_10();
+int example3_11();
+int example3_12();
+int example3_13();
+int example3_14();
+int example3_15();
+int exercise3_1();
+int exercise3_2();
+int exercise3_3();

@@ -1,0 +1,26 @@
+//第五章习题（15道）和例题（9道）
+int example5_1();//程序有时会出错
+int example5_2();
+int example5_3_1();
+int example5_3_2();
+int example5_4();
+int example5_5();
+int example5_6();
+int example5_7();
+int example5_8();
+int example5_9();
+int exercise5_1();
+int exercise5_2();
+int exercise5_3();
+int exercise5_4();
+int exercise5_5();
+int exercise5_6();
+int exercise5_7();
+int exercise5_8();
+int exercise5_9();
+int exercise5_10();
+int exercise5_11();
+int exercise5_12();
+int exercise5_13();
+int exercise5_14();
+int exercise5_15();
